@@ -1,6 +1,5 @@
 <h1 align="center">
-	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
-  ![](./src/assets/logo-ignite.svg)
+  <img alt="Logo" src="./src/assets/logo-ignite.svg" width="100px" />
 </h1>
 
 <h3 align="center">
