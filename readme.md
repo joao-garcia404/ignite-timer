@@ -19,6 +19,8 @@
 
 - <p style="color: red;">Pomodoro app with task history</p>
 
+<img alt="Project preview" src="./public/preview.png" />
+
 ## 🚀 Technologies
 
 Technologies that I used to develop this web client
